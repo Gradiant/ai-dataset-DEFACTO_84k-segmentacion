@@ -1,0 +1,4 @@
+outs:
+- md5: a9d17cad935c24792922b8aba11bc23c
+  size: 37699474
+  path: DEFACTO_84K_train_seg.json
